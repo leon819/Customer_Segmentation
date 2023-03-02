@@ -2,15 +2,19 @@
 
 Cluster Analysis of Customers: Marketing Segmentation and Insights 
 
+Read the Jupyter Notebook customer_segmentation.ipynb for detailed analysis. 
+
 1. Introduction
 
 It is difficult for us to implement different strategies for the customers as they have different attributes and shopping patterns. Therefore, we need to find a way to target specific segments of customers and implement different strategies to maximize sales. In this case, we aim to set up a model to cluster customers into different segments, and then find patterns in their purchasing behaviours, so that we can suggest suitable marketing strategies (products/promotions/places) to target each segment.
 
 2. General Insights   
 
-1) Age: The young age customers in our case usually have lower incomes and fewer children because of their age. It is more likely for older customers who worked for years to have higher incomes and raise children. This group of young, relatively poor customers and mostly with no children, are the main customers for the company’s gold, fish, fruits and sweet products. Besides, they visit the company’s website more often and seldom shop through catalogs. Therefore generally to target this type of customer, the promotion on the company's website should focus on catering to the shopping needs of the young customers. For example, gold, fish, fruits and sweet products' promotion should be well designed on the website.
-2) Income: Most of the high-income customers spent most of their money on wines and meat products. And they visit the company’s website on a low frequency. However, it is more likely for them to buy products through a catalog. So, in order to target high-income customers, the company can promote different product mixes of wines and meats through catalog, especially meat which is bought in large amounts for high-income customers. And other types of products can be left out to save on promotion costs.
-3) Children: Another group of customers are those who have 2 to 3 children. It is natural that these customers are relatively older. But their incomes vary. They visit the company’s website on a relatively high frequency and purchase wines, meat and gold.
+a.  Age: The young age customers in our case usually have lower incomes and fewer children because of their age. It is more likely for older customers who worked for years to have higher incomes and raise children. This group of young, relatively poor customers and mostly with no children, are the main customers for the company’s gold, fish, fruits and sweet products. Besides, they visit the company’s website more often and seldom shop through catalogs. Therefore generally to target this type of customer, the promotion on the company's website should focus on catering to the shopping needs of the young customers. For example, gold, fish, fruits and sweet products' promotion should be well designed on the website.
+
+b.  Income: Most of the high-income customers spent most of their money on wines and meat products. And they visit the company’s website on a low frequency. However, it is more likely for them to buy products through a catalog. So, in order to target high-income customers, the company can promote different product mixes of wines and meats through catalog, especially meat which is bought in large amounts for high-income customers. And other types of products can be left out to save on promotion costs.
+
+c. Children: Another group of customers are those who have 2 to 3 children. It is natural that these customers are relatively older. But their incomes vary. They visit the company’s website on a relatively high frequency and purchase wines, meat and gold.
 
 3. Marketing Strategies for Each Segment
 
