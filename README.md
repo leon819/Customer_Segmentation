@@ -7,16 +7,21 @@ Read the Jupyter Notebook customer_segmentation.ipynb for detailed analysis.
 Data Source: https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
 
 1. Introduction
+
 To increase sales, it is important that we develop targeted marketing strategies for specific customer segments based on their attributes and shopping patterns. To accomplish this, we aim to establish a customer segmentation model that clusters customers based on their behavior, identifies purchasing patterns, and suggests suitable marketing strategies, such as products, promotions, and places, for each segment.
 
-General Insights
+
+2. General Insights
+
 a. Age: Our younger customers generally have lower incomes and fewer children. Consequently, they primarily purchase gold, fish, fruits, and sweet products. They frequent our website but seldom shop through catalogs. To effectively target this customer segment, we should focus website promotions on products that cater to the shopping needs of young customers, such as gold, fish, fruits, and sweet products.
 
 b. Income: Our high-income customers typically spend more money on wines and meat products, and they prefer to buy through catalogs. To effectively target this segment, we should promote wine and meat products through catalogs, with other products excluded to save on promotional costs.
 
 c. Children: Customers with 2 to 3 children visit our website frequently and purchase wines, meat, and gold. Their incomes vary widely, and they are generally older than our other customer segments.
 
-Marketing Strategies for Each Segment
+
+3. Marketing Strategies for Each Segment
+
 Cluster 1 (Average Youngsters):
 This cluster includes customers with relatively low incomes and few children. To target this segment, we should promote fish, fruits, and gold products on our website, while excluding wine products. We should also focus on in-store and website purchases, as this segment's shopping patterns are similar to those of clusters 2 and 4.
 
